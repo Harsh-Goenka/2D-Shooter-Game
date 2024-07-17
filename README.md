@@ -1,6 +1,6 @@
 # 2D Shooter Game
 
-This is a 2D shooter game developed by Shashank. 
+This is a 2D shooter game developed by Harsh. 
 
 The game features a custom cursor for shooting alien spaceships, scoring mechanics, background music, and sound effects. 
 
@@ -47,4 +47,4 @@ Spaceship prefabs instantiate randomly at intervals, adding to the dynamic gamep
 
 Special thanks to `Adiraj Sir` from `CipherSchools` for his mentorship and guidance, and to the Unity community for the amazing resources and tutorials.
 #
-**Feel free to make any additional changes or add more details as needed.**
+
