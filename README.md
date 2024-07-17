@@ -7,8 +7,7 @@ The game features a custom cursor for shooting alien spaceships, scoring mechani
 Spaceship prefabs instantiate randomly at intervals, adding to the dynamic gameplay experience.
 
 # GamePlay photo
-
-(https://img.youtube.com/vi/nUGafyNNNFs/maxresdefault.jpg)
+![maxresdefault](https://github.com/user-attachments/assets/72dd57b7-59f5-4f85-9366-15ac43c6b673)
 
 
 ## Features
