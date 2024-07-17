@@ -34,7 +34,7 @@ Spaceship prefabs instantiate randomly at intervals, adding to the dynamic gamep
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Shashank01729/2D-Shooter-Game.git
+   git clone https://github.com/Harsh-Goenka/2D-Shooter-Game.git
    ```
 2. **Open the project in Unity:**
 
@@ -42,8 +42,4 @@ Spaceship prefabs instantiate randomly at intervals, adding to the dynamic gamep
 - Click on `Add` and select the cloned repository folder.
 
 
-## Acknowledgments
-
-Special thanks to `Adiraj Sir` from `CipherSchools` for his mentorship and guidance, and to the Unity community for the amazing resources and tutorials.
-#
 
